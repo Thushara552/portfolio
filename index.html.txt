@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kasi Thushara - Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Hello, I'm Kasi Thushara 👋</h1>
+    <p>Aspiring Web Developer | Full Stack Java Programmer | Problem Solver</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>To work for an organization where I can put my functional, technical and creative skills to achieve organizational goals and continuously strive to learn new skills to become a competent professional and build a promising career.</p>
+  </section>
+
+  <section id="education">
+    <h2>Education</h2>
+    <ul>
+      <li><strong>B.Tech (CSE)</strong>, Vemu Institute Of Technology — 80.2% (Pursuing)</li>
+      <li><strong>Intermediate (CBSE)</strong>, Mangal Junior College — 92.5%</li>
+      <li><strong>SSC (CBSE)</strong>, Mangal Vidyalayam — 91.2%</li>
+    </ul>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Programming Languages: Python, Java</li>
+      <li>Frameworks: Django, Bootstrap</li>
+      <li>Technical Skills: Cloud Computing, CyberSecurity, Data Analytics</li>
+      <li>Web Essentials: HTML, CSS</li>
+      <li>Soft Skills: Leadership, Teamwork, Communication, Collaboration</li>
+    </ul>
+  </section>
+
+  <section id="experience">
+    <h2>Experience</h2>
+    <p><strong>Full Stack Java Programming Intern — Skill Dzire</strong> (May 2024 - July 2024)</p>
+    <ul>
+      <li>Gained applied knowledge on JavaScript, HTML, CSS3, MongoDB, React, Node.js</li>
+      <li>Focused on future growth and development in full stack Java</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <h3>Edasvic: Enabling Efficient and Dynamic Storage Verification for Clouds of Industrial Internet Platforms</h3>
+    <p>Enhanced data integrity and computational efficiency in industrial cloud storage using:</p>
+    <ul>
+      <li>Polynomial commitment schemes</li>
+      <li>Homomorphic Authentication</li>
+      <li>Dynamic Data Operations</li>
+      <li>Security Protocol Design</li>
+      <li>Multi-Layer Verification</li>
+    </ul>
+  </section>
+
+  <section id="certifications">
+    <h2>Certifications</h2>
+    <ul>
+      <li>Java Full Stack - Wipro</li>
+      <li>Introduction to Artificial Intelligence - Great Learning</li>
+      <li>Introduction to Java - Coursera</li>
+      <li>Foundations of Cyber Security - Coursera</li>
+      <li>Machine Learning, Scientific Computing, Data Analysis with Python - Free Code Camp</li>
+      <li>Cloud Computing - NPTEL</li>
+      <li>JavaScript - Simplilearn</li>
+      <li>SQL - CognitiveClass.ai</li>
+      <li>Python for Data Sciences - CognitiveClass.ai</li>
+      <li>CSS – HackerRank</li>
+      <li>Principles of Generative AI - Infosys</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:kasithushara@gmail.com">kasithushara@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/kasi-thushara-518b4a296" target="_blank">Kasi Thushara</a></p>
+    <p>Phone: 9381332503</p>
+  </section>
+
+  <footer>
+    <p>© <span id="year"></span> Kasi Thushara | Built with ❤️</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
